@@ -1,4 +1,4 @@
-# 
+# Exclusif LocalAI flux de travail. Avec recherche sémantique et synchronisation cloud — optimisé pour des performances et une efficacité maximales.
 
 
 
